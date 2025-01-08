@@ -1,0 +1,4 @@
+filename	acq_time	operator	randstr
+anat/sub-08_T1w.nii.gz	1970-01-01T00:00:00.000000	CNI-HBI	8b7221fd
+anat/sub-08_PDw.nii.gz	1970-01-01T00:00:00.000000	CNI-HBI	893cd328
+func/sub-08_task-rest_bold.nii.gz	1970-01-01T00:00:00.000000	CNI-HBI	252660b9
