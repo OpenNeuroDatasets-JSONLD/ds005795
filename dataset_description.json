@@ -19,6 +19,7 @@
   "HowToAcknowledge": "Data was provided by the human brain imaging group of the Combinatorial NeuroImaging (CNI) core facility at the Leibniz Institute for Neurobiology (LIN) Magdeburg.",
   "License": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
   "Name": "MULTI-CLARID (Multimodal Category Learning and Resting-state Imaging Data)",
-  "ReferencesAndLinks": ["www.lin-magdeburg.de/cni"]
+  "ReferencesAndLinks": ["www.lin-magdeburg.de/cni"],
+  "Ethics Approvals": ["The study was approved by the ethics committee of the University of Magdeburg, Germany"]
 }
 
